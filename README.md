@@ -2,11 +2,18 @@
 
 [About](#about)
 
+[Game Appereance](#game-appereance)
+
 [Building the project](#building-the-project)
 
 ## About
 
-Project is made with use of [SnakeCore](https://github.com/FilipZajdel/SnakeCore) and mbed platform for stm32. It uses touchscreen for controlling and displaying the game.
+Project is made with use of [SnakeCore](https://github.com/FilipZajdel/SnakeCore) and [mbed platform](https://github.com/ARMmbed/mbed-cli) for STM32. It uses touchscreen for controlling and displaying the game.
+
+## Game appereance
+
+![](images/game.jpg)
+*image1. Game appereance*
 
 
 
