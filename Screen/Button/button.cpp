@@ -69,3 +69,7 @@ void Button::OnRelease(){
 Figure *Button::GetFigure(){
     return MyRectangle;
 }
+
+Button::~Button(){
+    delete MyRectangle;
+}

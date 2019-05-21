@@ -2,7 +2,7 @@
 #include "StmSnakeConfig.hpp"
 #include "TS_DISCO_F429ZI.h"
 #include "button.h"
-#include "config.h"
+#include "DiscoScreenConfig.h"
 #include "mbed.h"
 #include "rectangle.h"
 

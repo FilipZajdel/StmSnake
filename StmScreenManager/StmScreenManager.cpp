@@ -1,6 +1,6 @@
 #include "StmScreenManager.hpp"
 #include "rectangle.h"
-#include "../StmSnakeConfig.hpp"
+#include "StmSnakeConfig.hpp"
 
 #include <vector>
 

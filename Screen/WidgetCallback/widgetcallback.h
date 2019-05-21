@@ -3,6 +3,7 @@
 
 #include "widget.h"
 
+/** @brief Defines base class for callbacks used by widgets */
 class WidgetCallback{
 public:
     virtual void Execute(void) = 0;    
@@ -11,6 +12,5 @@ protected:
 private:
     Widget *MyWidget;
 };
-
 
 #endif
